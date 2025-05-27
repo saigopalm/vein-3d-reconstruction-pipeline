@@ -33,4 +33,6 @@ Export the trained Yolo11 model and place in the model/ folder.
 | 3D Visualization         | 400 ms                     |
 
 ## Sample Results
-![Entire Pipeline](flowchart.jpg)
+<div align="center">
+<img src="flowchart.jpg" alt="Entire Pipeline" width="400" height="600" align="center"/>
+</div>

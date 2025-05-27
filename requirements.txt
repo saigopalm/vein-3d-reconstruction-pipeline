@@ -1,0 +1,10 @@
+opencv-python
+picamera2
+ultralytics
+numpy
+torch
+Pillow
+pytictoc
+tensorflow
+matplotlib
+plotly

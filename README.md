@@ -33,4 +33,4 @@ Export the trained Yolo11 model and place in the model/ folder.
 | 3D Visualization         | 400 ms                     |
 
 ## Sample Results
-![Entire Pipeline](flochart.png)
+![Entire Pipeline](flowchart.jpg)
